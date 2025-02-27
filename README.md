@@ -39,19 +39,19 @@ Due to challenges in locating the exact API endpoints and handling authorization
 Below are previews of the key screens. *(Replace the image paths with the actual paths to your screenshots.)*
 
 ### User Management
-![User Management](./screenshots/UserManagement.png)
+![User Management](./frontend/public/screenshots/UserManagement.png)
 
 ### Rating and Review
-![Rating and Review](./screenshots/Review&Rating.png)
+![Rating and Review](./frontend/public/screenshots/Review&Rating.png)
 
 ### History
-![History](./screenshots/History.png)
+![History](./frontend/public/screenshots/History.png)
 
 ### All Bookings
-![All Bookings](./screenshots/Bookings.png)
+![All Bookings](./frontend/public/screenshots/Bookings.png)
 
 ### Referral History
-![Referral History](./screenshots/Bookings.png)
+![Referral History](./frontend/public/screenshots/Bookings.png)
 
 ## Technologies Used
 
